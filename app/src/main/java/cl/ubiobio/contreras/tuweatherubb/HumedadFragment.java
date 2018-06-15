@@ -158,7 +158,7 @@ public class HumedadFragment extends Fragment {
                             minimo=valor;
                         }
                     }
-                    fechaview = "Ultima medición: "+fechaview +" "+horaview;
+                    fechaview = "Última medición: "+fechaview +" "+horaview;
                     textView = (TextView) rootView.findViewById(R.id.tv_fecha_medicion);
                     textView.setText(fechaview);
                     textView = (TextView) rootView.findViewById(R.id.tv_humedad_maxima);

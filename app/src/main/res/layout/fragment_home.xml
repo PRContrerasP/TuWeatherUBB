@@ -15,7 +15,7 @@
             android:id="@+id/tv_nombre_ciudad"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="CHILLAN"
+            android:text="CHILLÁN"
             android:textColor="#FFFFFF"
             android:textStyle="bold"
             android:textSize="20sp"
