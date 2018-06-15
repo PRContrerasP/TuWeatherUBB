@@ -12,7 +12,7 @@
         android:orientation="horizontal"
         android:id="@+id/nombre_ciudad">
         <TextView
-            android:paddingTop="20dp"
+            android:paddingTop="5dp"
             android:id="@+id/tv_nombre_ciudad"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -46,7 +46,6 @@
         android:id="@+id/texto_humedad_maxima"
         android:layout_below="@+id/fecha_medicion">
         <TextView
-            android:paddingTop="20dp"
             android:id="@+id/tv_tx_humedad_maxima"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -78,7 +77,6 @@
         android:id="@+id/text_humedad_minima"
         android:layout_below="@+id/medicion_humedad">
         <TextView
-            android:paddingTop="20dp"
             android:id="@+id/tv_tx_humedad_minima"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -110,7 +108,6 @@
         android:id="@+id/text_humedad_promedio"
         android:layout_below="@+id/medicion_humedad_minima">
         <TextView
-            android:paddingTop="20dp"
             android:id="@+id/tv_tx_humedad_promedio"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

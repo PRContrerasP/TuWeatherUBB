@@ -12,7 +12,7 @@
         android:orientation="horizontal"
         android:id="@+id/nombre_ciudad">
         <TextView
-            android:paddingTop="20dp"
+            padd
             android:id="@+id/tv_nombre_ciudad"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -46,7 +46,6 @@
         android:id="@+id/texto_temperatura_maxima"
         android:layout_below="@+id/fecha_medicion">
         <TextView
-            android:paddingTop="20dp"
             android:id="@+id/tv_tx_temperatura_maxima"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -78,7 +77,6 @@
         android:id="@+id/text_temperatura_minima"
         android:layout_below="@+id/medicion_temperatura">
         <TextView
-            android:paddingTop="20dp"
             android:id="@+id/tv_tx_temperatura_minima"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -110,7 +108,6 @@
         android:id="@+id/text_temperatura_promedio"
         android:layout_below="@+id/medicion_temperatura_minima">
         <TextView
-            android:paddingTop="20dp"
             android:id="@+id/tv_tx_temperatura_promedio"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
